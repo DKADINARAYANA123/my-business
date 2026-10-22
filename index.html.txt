@@ -4,6 +4,118 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Munna Digital Seva Kendram - ఆన్‌లైన్ సేవలు, PAN కార్డు సహాయం మరియు డిజిటల్ సేవలు, పెద్దరెడ్డిపల్లి.">
+  <title>Munna Digital Seva Kendram | ఆన్‌లైన్ సేవలు</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container nav">
+      <a class="brand" href="#home">
+        <span class="brand-icon">💻</span>
+        <span>Munna Digital Seva Kendram
+          <small>మీ సేవలో... మీ నమ్మకంతో...</small>
+        </span>
+      </a>
+      <a class="call-button" href="tel:9133716125">📞 కాల్ చేయండి</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero" id="home">
+      <div class="container hero-content">
+        <span class="eyebrow">మీ డిజిటల్ సేవలకు ఒకే చిరునామా</span>
+        <h1>మున్నా డిజిటల్<br><span>సేవా కేంద్రం</span></h1>
+        <p>
+          ఆన్‌లైన్ సేవలు, PAN కార్డు సంబంధిత సహాయం
+          మరియు డిజిటల్ సేవలు ఒకే చోట.
+        </p>
+        <div class="hero-actions">
+          <a class="button primary" href="tel:9133716125">📞 9133716125</a>
+          <a class="button secondary" href="#services">మా సేవలు చూడండి</a>
+        </div>
+        <div class="hero-note">సులభమైన సేవలు • స్నేహపూర్వక సహాయం</div>
+      </div>
+    </section>
+
+    <section class="section" id="services">
+      <div class="container">
+        <div class="section-heading">
+          <span class="eyebrow">మేము అందించే సేవలు</span>
+          <h2>మా సేవలు</h2>
+          <p>మీ అవసరానికి తగిన సేవ గురించి తెలుసుకోవడానికి మమ్మల్ని సంప్రదించండి.</p>
+        </div>
+
+        <div class="service-grid">
+          <article class="service-card">
+            <div class="service-icon">🌐</div>
+            <h3>ఆన్‌లైన్ సేవలు</h3>
+            <p>ఆన్‌లైన్ దరఖాస్తులు మరియు అందుబాటులో ఉన్న ఇంటర్నెట్ ఆధారిత సేవల్లో సహాయం.</p>
+          </article>
+
+          <article class="service-card">
+            <div class="service-icon">🪪</div>
+            <h3>PAN కార్డు సేవలు</h3>
+            <p>PAN కార్డు దరఖాస్తు, అవసరమైన పత్రాలు మరియు దరఖాస్తు ప్రక్రియపై సహాయం.</p>
+          </article>
+
+          <article class="service-card">
+            <div class="service-icon">🖥️</div>
+            <h3>డిజిటల్ సేవలు</h3>
+            <p>డిజిటల్ దరఖాస్తులు, ఆన్‌లైన్ ఫారమ్‌లు మరియు ఇతర అందుబాటులో ఉన్న సేవల్లో సహాయం.</p>
+          </article>
+        </div>
+        <p class="notice">
+          గమనిక: సేవల లభ్యత, అర్హత మరియు సంబంధిత అధికారిక అనుమతులపై ఆధారపడి ఉంటుంది.
+        </p>
+      </div>
+    </section>
+
+    <section class="contact-section" id="contact">
+      <div class="container contact-panel">
+        <div>
+          <span class="eyebrow">మమ్మల్ని సంప్రదించండి</span>
+          <h2>మీకు సహాయం చేయడానికి మేము సిద్ధంగా ఉన్నాం!</h2>
+          <p>సేవల వివరాలు తెలుసుకోవడానికి ఫోన్ చేయండి లేదా మా కేంద్రాన్ని సందర్శించండి.</p>
+        </div>
+
+        <div class="contact-details">
+          <div class="contact-item">
+            <span>📞</span>
+            <div>
+              <small>మొబైల్ నంబర్</small>
+              <a href="tel:9133716125">9133716125</a>
+            </div>
+          </div>
+          <div class="contact-item">
+            <span>📍</span>
+            <div>
+              <small>చిరునామా</small>
+              <p>పెద్దరెడ్డిపల్లి (Peddareddypalli)</p>
+            </div>
+          </div>
+          <a class="button primary full-button" href="tel:9133716125">
+            ఇప్పుడే కాల్ చేయండి
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-content">
+      <p>© <span id="year">2026</span> Munna Digital Seva Kendram</p>
+      <p>మీ సేవలో... మీ నమ్మకంతో...</p>
+    </div>
+  </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="te">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>మా బిజినెస్ | ఆన్‌లైన్ సేవలు</title>
   <link rel="stylesheet" href="/style.css">
 </head>
