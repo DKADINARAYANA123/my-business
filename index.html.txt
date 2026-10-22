@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+<html lang="te">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>మా బిజినెస్ | ఆన్‌లైన్ సేవలు</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header>
+    <h1>మా బిజినెస్</h1>
+    <p>నమ్మకమైన సేవలు — మీకు దగ్గరగా</p>
+  </header>
+
+  <nav>
+    <a href="#home">హోమ్</a>
+    <a href="#services">మా సేవలు</a>
+    <a href="#contact">సంప్రదించండి</a>
+  </nav>
+
+  <main>
+    <section class="hero" id="home">
+      <h2>మీకు స్వాగతం!</h2>
+      <p>మీ ఆన్‌లైన్ సేవలకు సులభమైన పరిష్కారం.</p>
+      <a class="button" href="#services">మా సేవలు చూడండి</a>
+    </section>
+
+    <section id="services">
+      <h2>మా సేవలు</h2>
+      <div class="services">
+        <article class="service">
+          <h3>ఆన్‌లైన్ అప్లికేషన్లు</h3>
+          <p>వివిధ దరఖాస్తులను పూరించడంలో సహాయం.</p>
+        </article>
+
+        <article class="service">
+          <h3>డాక్యుమెంట్ సేవలు</h3>
+          <p>టైపింగ్, PDF తయారీ, డాక్యుమెంట్ ఫార్మాటింగ్.</p>
+        </article>
+
+        <article class="service">
+          <h3>డిజిటల్ సేవలు</h3>
+          <p>మీ అవసరాలకు అనుగుణంగా డిజిటల్ సహాయం.</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="contact">
+      <h2>మమ్మల్ని సంప్రదించండి</h2>
+      <p>మీ అసలు ఫోన్ నంబర్, చిరునామా ఇక్కడ చేర్చండి.</p>
+      <a class="button" href="tel:+919876543210">
+        ఫోన్ చేయండి
+      </a>
+      <a class="button"
+         href="https://wa.me/919876543210"
+         target="_blank"
+         rel="noopener">
+        WhatsApp
+      </a>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2026 మా బిజినెస్</p>
+  </footer>
+</body>
+</html>
